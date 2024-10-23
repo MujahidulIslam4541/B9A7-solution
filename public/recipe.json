@@ -1,0 +1,99 @@
+[
+    {
+        "recipeImage": "https://i.ibb.co.com/fNryM6M/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table.jpg",
+        "recipeId": 1,
+        "recipeName": "Spicy Chicken Stir-Fry",
+        "shortDescription": "A quick and flavorful chicken stir-fry with vegetables.",
+        "ingredients": [
+            "550g chicken",
+            "120ml soy sauce",
+            "400g mushrooms",
+            "200g bell peppers",
+            "100g onions"
+           
+        ],
+        "preparingTime": 30,
+        "calories": 320 
+        
+    },
+    {
+         "recipeImage": "https://i.ibb.co.com/LJxYwGD/delicious-lobster-gourmet-seafood.jpg",
+        "recipeId": 2,
+        "recipeName": "Vegetable Pasta",
+        "shortDescription": "A delicious pasta dish loaded with fresh vegetables.",
+        "ingredients": [
+            "300g pasta",
+            "150g cherry tomatoes",
+            "200g spinach",
+            "100g broccoli",
+            "50g Parmesan cheese"
+        ],
+        "preparingTime": 25,
+        "calories": 420 
+       
+    },
+    {
+        "recipeImage": "https://i.ibb.co.com/9rc6W3k/delicious-pizza-indoors.jpg",
+        "recipeId": 3,
+        "recipeName": "Beef Tacos",
+        "shortDescription": "Savory beef tacos topped with fresh salsa.",
+        "ingredients": [
+            "500g ground beef",
+            "8 taco shells",
+            "100g cheese",
+            "150g lettuce",
+            "80g salsa"
+        ],
+        "preparingTime": 20,
+        "calories": 450 
+        
+    },
+    {
+         "recipeImage": "https://i.ibb.co.com/sgz1cPs/baked-chicken-wings-asian-style-tomatoes-sauce-plate.jpg",
+        "recipeId": 4,
+        "recipeName": "Quinoa Salad",
+        "shortDescription": "A refreshing salad packed with protein and vegetables.",
+        "ingredients": [
+            "200g quinoa",
+            "100g cucumber",
+            "100g cherry tomatoes",
+            "50g feta cheese",
+            "50ml olive oil"
+        ],
+        "preparingTime": 15,
+        "calories": 250 
+       
+    },
+    {
+        "recipeImage": "https://i.ibb.co.com/HPYmzkv/delicious-lobster-gourmet-seafood-1.jpg",
+        "recipeId": 5,
+        "recipeName": "Chicken Curry",
+        "shortDescription": "A rich and creamy chicken curry served with rice.",
+        "ingredients": [
+            "500g chicken",
+            "200g coconut milk",
+            "100g curry paste",
+            "300g rice",
+            "50g cilantro"
+        ],
+        "preparingTime": 40,
+        "calories": 600 
+        
+    },
+    {
+        "recipeImage": "https://i.ibb.co.com/x1t8vG0/tortilla-wrap-with-falafel-fresh-salad-vegan-tacos-vegetarian-healthy-food.jpg",
+        "recipeId": 6,
+        "recipeName": "Chocolate Cake",
+        "shortDescription": "A decadent chocolate cake perfect for celebrations.",
+        "ingredients": [
+            "200g flour",
+            "100g cocoa powder",
+            "150g sugar",
+            "3 eggs",
+            "100g butter"
+        ],
+        "preparingTime": 60,
+        "calories": 500 
+        
+    }
+]
